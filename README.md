@@ -129,3 +129,5 @@ are class methods (`.`).
 - [Active Record Query Interface][querying]
 
 [querying]: https://guides.rubyonrails.org/active_record_querying.html
+
+https://github.com/G3o-R/phase-3-active-record-crud-operations-lab
